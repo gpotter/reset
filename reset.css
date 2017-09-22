@@ -1,1 +1,29 @@
 /*CSS*/
+html{
+  -webkit-tap-highlight-color:transparent;
+}
+
+/*
+media types sure I missed some:
+  Screen, Projector, Print, Aural
+*/
+
+@media screen and (max-width: 699px) and (min-width: 520px) {
+  {
+    /*Tablet Content */
+      
+  }
+}
+
+
+@media projection{
+    {
+  
+    }
+}
+
+@media print{
+    {
+  
+    }
+}
